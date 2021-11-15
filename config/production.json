@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "serega learn mern",
+    "mongoUri": "mongodb+srv://serega:!QAZ2wsx@cluster0.d9n8n.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl" : "http://localhost:5000"
+}
